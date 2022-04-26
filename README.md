@@ -1,8 +1,8 @@
 # 💫About Me :
-👋 Hello
-🧑 I am AmirHosein
-👨‍🎓 Computer Student
-💻 I am very interested in programming
+👋 Hello<br/>
+🧑 I am AmirHosein<br/>
+👨‍🎓 Computer Student<br/>
+💻 I am very interested in programming<br/>
 🤖 My Field Of Work In Discord
 
 ## 🌐Socials
