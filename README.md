@@ -17,4 +17,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0DANGER0&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0DANGER0&icon=4&color=0)]
+![](https://visitcount.itsvg.in/api?id=0DANGER0&icon=4&color=0)
